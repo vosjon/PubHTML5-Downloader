@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNNM2inkR0k9ifWfkue+Yf9RtBgJkojQPT+tDkxAX/n6la9M4GK4Y/sFsp++qk8qBuotGfxiesXVYe8wrkL4Mg==",
+  "success": true,
+  "projectFilePath": "C:\\_git\\CSharp12DotNet8\\PUBHTML5Downloader\\PUBHTML5Downloader\\PUBHTML5Downloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonjo\\.nuget\\packages\\pdfsharpcore\\1.3.63\\pdfsharpcore.1.3.63.nupkg.sha512",
+    "C:\\Users\\jonjo\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\jonjo\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\jonjo\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
